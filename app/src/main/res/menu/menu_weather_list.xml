@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.weatherapp.ui.WeatherListActivity">
+
+    <item
+        android:id="@+id/action_fetch_weather"
+        android:icon="@drawable/ic_fetch_data"
+        android:orderInCategory="100"
+        android:title="@string/fetch_current_weather"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="200"
+        android:title="@string/delete_all_data"
+        app:showAsAction="never" />
+</menu>

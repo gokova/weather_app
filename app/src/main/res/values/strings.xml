@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_weather_details">Weather Details</string>
+    <string name="fetching_current_weather">Fetching…</string>
+    <string name="fetch_current_weather">Fetch Current Weather</string>
+    <string name="delete_all_data">Delete All Data</string>
+    <string name="east">E</string>
+    <string name="north_east">NE</string>
+    <string name="north">N</string>
+    <string name="north_west">NW</string>
+    <string name="west">W</string>
+    <string name="south_west">SW</string>
+    <string name="south">S</string>
+    <string name="south_east">SE</string>
+    <string name="no_data_available">No data available</string>
+    <string name="weather_list">Weather List</string>
+    <string name="weather_condition_icon">Weather condition icon</string>
+    <string name="more_options_menu">More options menu</string>
+    <string name="temperature_value">%d &#xb0;C</string>
+    <string name="min_max_temperature_value">%d &#xb0;C / %d &#xb0;C</string>
+    <string name="pressure_value">%d mb</string>
+    <string name="humidity_value">%%%d</string>
+    <string name="speed_value">%d km/h</string>
+    <string name="more_details">More Details</string>
+    <string name="delete">Delete</string>
+    <string name="wind">Wind</string>
+    <string name="temperature">Temperature</string>
+    <string name="daily_min_max">Daily Min / Max</string>
+    <string name="condition">Condition</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="direction">Direction</string>
+    <string name="created_on">Created On</string>
+</resources>
